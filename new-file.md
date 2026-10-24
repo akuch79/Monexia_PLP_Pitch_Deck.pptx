@@ -1,225 +1,198 @@
-# Monexia Pitch Deck Draft
+# Monexia
 
 ## Slide 1 — Monexia
 
-Title: Monexia
-Subtitle: AI-powered financial clarity for a generation that feels behind on money
+Monexia is an AI-powered personal finance coach designed for young professionals who want to build wealth without becoming full-time finance experts.
 
-- Built for young professionals and early-career households who want to build wealth without becoming full-time finance experts.
-- Mission: Turn financial anxiety into confident decisions through AI guidance and behavior-based automation.
-- Tagline: Spend smarter. Save sooner. Live better.
+- Helps users understand their money in plain language
+- Turns financial stress into clear, actionable decisions
+- Combines AI guidance with behavioral financial coaching
+
+Tagline: Financial clarity for the next generation.
 
 ---
 
 ## Slide 2 — The Problem
 
-The financial system is overwhelming for people in their 20s and 30s.
+Young professionals are earning more than previous generations, but many still feel financially behind.
 
-- Most people are managing income, debt, taxes, subscriptions, and goals without a real plan.
-- Budgeting apps track spending but do not explain decisions or help users improve behavior.
-- High-interest debt and lifestyle creep are eroding financial progress before people can invest or build savings.
-- Financial stress is rising, but existing tools are either too complex, too generic, or too reactive.
+- Managing income, debt, savings, subscriptions, and life expenses is overwhelming
+- Traditional budgeting tools track spending but do not explain what to do next
+- Most people do not have a trusted advisor to help them prioritize short-term decisions and long-term goals
+- Financial stress is rising, even among people with stable income
 
-Key insight: People do not need more spreadsheets; they need guidance that adapts to their life circumstances.
+The problem is not lack of income. The problem is a lack of clarity, strategy, and personalized guidance.
 
 ---
 
 ## Slide 3 — Why This Matters Now
 
-- 70%+ of younger adults report feeling stressed about money, even when earning stable income.
-- The majority of financial apps focus on tracking rather than coaching.
-- Consumer finance has shifted to digital, but the user experience is still fragmented and impersonal.
-- AI now makes it possible to deliver hyper-personalized, real-time financial guidance at scale.
+The opportunity is growing because both behavior and technology are changing.
 
-Monexia sits at the intersection of behavioral finance, AI, and digital wealth management.
+- Younger consumers increasingly rely on digital tools for financial decisions
+- Financial apps are crowded, but most are generic and reactive
+- AI makes it possible to deliver personalized guidance at scale
+- Consumers are seeking practical and approachable solutions, not complex spreadsheets or jargon-heavy advice
+
+We are entering an era where personal finance becomes more proactive, intelligent, and accessible.
 
 ---
 
 ## Slide 4 — Our Solution
 
-Monexia is an AI-powered personal finance coach that helps users:
+Monexia is an AI-powered financial guidance platform that helps users:
 
 - Understand where their money is going
+- Identify spending patterns and financial friction points
 - Set realistic savings and debt goals
-- Receive daily recommendations based on their financial habits
-- Prioritize bills, subscriptions, and spending decisions with context
-- Build momentum toward long-term wealth goals
+- Receive personalized recommendations based on their financial behavior
+- Build a practical plan for short-term stability and long-term wealth
 
-The product combines:
-
-- AI-generated money insights
-- Personalized recommendations
-- Goal-based automation
-- Smart nudges with clear next steps
-
-Unlike traditional budgeting tools, Monexia acts like an advisor, not just a ledger.
+Monexia acts like a personal finance coach, not just an expense tracker.
 
 ---
 
 ## Slide 5 — Product Experience
 
-User Journey
+Users connect their financial accounts and begin with a simple, guided onboarding process.
 
 1. Connect accounts and spending sources
-2. Monexia analyzes spending patterns, debt, and income trends
-3. The system identifies financial friction points
-4. The AI coach recommends a 30-day plan
-5. Users receive actionable nudges, reminders, and progress updates
+2. Monexia analyzes income, expenses, debt, and savings habits
+3. The system identifies spending patterns and risk areas
+4. AI delivers personalized recommendations and a 30-day action plan
+5. Users receive nudges, reminders, and progress updates to stay on track
 
-Example scenarios:
+Example recommendations:
 
-- “You spent 18% more on food delivery this month than your baseline. Here is how to reduce it without losing convenience.”
-- “You are on track to miss your emergency fund goal. I recommend moving $120 per paycheck to your safety buffer.”
-- “You can pay off your credit card 2 months earlier if you redirect the extra $200 from subscriptions and dining.”
-
----
-
-## Slide 6 — How Monexia Makes Money
-
-Business Model
-
-- Freemium app with core tracking features
-- Premium subscription for AI coaching, recommendations, and goal planning
-- Optional financial partnerships with lenders, credit tools, and savings products
-- Revenue share on financial product referrals when relevant and beneficial to users
-
-Pricing model example:
-
-- Free: tracking + basic alerts
-- Pro: $12–$20/month for AI guidance and planning
-- Premium+: advanced automation and wealth planning features
-
-This creates recurring revenue while keeping the product accessible.
+- “You are overspending on food delivery. Here is a realistic reduction plan.”
+- “You can pay off your credit card faster by redirecting $150 per paycheck.”
+- “Your emergency fund goal is achievable in 6 months if you automate $200 weekly.”
 
 ---
 
-## Slide 7 — Market Opportunity
+## Slide 6 — Target Market
 
-Target Customer
+Primary audience: young professionals and early-career households, ages 22–40
 
-- Young professionals (22–40)
-- Dual-income households
-- New parents and first-time homeowners
-- People with unstable financial habits but decent earning potential
+- Salaried professionals with growing income but limited financial structure
+- People managing debt, rent, subscriptions, and savings goals at the same time
+- Consumers who want better financial decisions but do not want to become experts
+- Individuals who are motivated to build wealth but need a simple system to guide them
 
-Total Addressable Market
-
-- Personal finance software is a large, growing category across consumer banking and fintech.
-- Consumers increasingly pay for digital financial experiences that simplify decision-making.
-- As AI becomes more integrated into finance, trust and personalization will be key differentiators.
-
-Monexia is positioned as a lifestyle financial partner rather than a simple calculator.
+This is a large and underserved market that needs both motivation and clarity.
 
 ---
 
-## Slide 8 — Competitive Landscape
+## Slide 7 — Business Model
 
-Direct competitors:
+Monexia is designed to generate recurring revenue through a digital subscription model.
 
-- Budgeting apps: Mint, YNAB, Monarch
-- Wealth apps: Empower, Betterment, SoFi
-- AI financial assistants: emerging fintech startups and embedded banking features
+Revenue streams:
 
-Our differentiation:
+- Freemium account with basic tracking and insights
+- Premium monthly subscription for personalized AI coaching and planning
+- Optional financial partnerships and referral-based recommendations
+- Future upsell into advanced goal planning and wealth-related services
 
-- Behavioral, coaching-led guidance rather than static tracking
-- Personalized action plans instead of generic categories
-- A focus on day-to-day money confidence, not only long-term investment management
-- Lower friction and a more approachable experience for non-experts
-
-Monexia competes on clarity, behavior change, and trust.
+This model is scalable because the product is digital, software-based, and built for long-term retention.
 
 ---
 
-## Slide 9 — Traction and Milestones
+## Slide 8 — Revenue Model and Unit Economics
 
-Current stage: concept validation and early prototype
+Monexia can scale efficiently with a subscription business model.
+
+Sample pricing:
+
+- Free tier: basic account tracking and general insights
+- Pro plan: $12–$20/month for AI guidance and planning tools
+- Premium plan: higher-value planning and automation features
+
+Revenue example:
+
+- 5,000 paying users at $15/month = $900,000 annual recurring revenue
+- 10,000 paying users at $18/month = $2.16 million annual recurring revenue
+
+The economics work because the product is software-driven, low-friction, and targeted at a growing consumer need.
+
+---
+
+## Slide 9 — Competitive Landscape
+
+The personal finance market includes budgeting tools, banking apps, and wealth platforms.
+
+- Budgeting apps focus on tracking, not coaching
+- Investment platforms focus on wealth growth, not everyday financial decision-making
+- General fintech products often lack personalization and behavioral insight
+
+Monexia differentiates itself through:
+
+- AI-powered financial guidance
+- Personalized action plans
+- Behavioral coaching instead of static tracking
+- Simpler experiences for non-experts
+
+Monexia is not just another budget app. It is a financial decision support platform.
+
+---
+
+## Slide 10 — Traction and Roadmap
+
+Current stage: MVP concept and early validation
 
 Planned milestones:
 
-- MVP financial dashboard and AI coach prototype
-- Beta testing with 50–100 users
-- Refine recommendation engine and user flows
-- Launch early-access subscription model
-- Build partner strategy with banks, savings apps, and financial education channels
+- Build the core dashboard and AI recommendation engine
+- Conduct user testing with target customers
+- Refine behavioral prompts and personalization logic
+- Launch beta users and collect real engagement data
+- Validate pricing and retention before scale-up
 
-Key validation metrics:
+Key metrics to watch:
 
 - User retention after 30 days
-- Reduction in overspending or debt-related stress
-- Completion rate of recommended actions
-- Growth in savings rate from baseline
-
----
-
-## Slide 10 — Unit Economics and Financial Logic
-
-Revenue assumptions
-
-- 5,000 paying users at $15/month = $900,000 annual recurring revenue
-- If 10,000 users at $18/month = $2.16M ARR
-- Partner referrals and B2B distribution create additional upside
-
-Costs
-
-- Product development and AI infrastructure
-- Marketing and acquisition
-- Customer support and onboarding
-- Compliance and data security
-
-The business model is designed to scale efficiently because the core product can be digital, data-driven, and recurring.
+- Completion of recommended actions
+- Improvement in savings rate
+- Reduction in overspending and financial stress
 
 ---
 
 ## Slide 11 — Team
 
-Founder: Margaret
+Founder: Margaret Akuch Deng
 
-- Entrepreneurial, mission-driven, and focused on building products that improve everyday financial decision-making
-- Brings a strong product and user-centric mindset
-- Committed to validating the value proposition through customer feedback and iteration
+- Focused on building products that improve everyday financial well-being
+- Strong product mindset with customer-centered problem solving
+- Committed to validating the product through real user feedback and iteration
 
-Advisory needs:
+As the company grows, the team will need support in:
 
-- Product design and user research
-- Fintech compliance and security expertise
-- AI/ML engineering support
-- Growth and partnerships
-
-The team is early-stage, but the opportunity is clear and the problem is urgent.
+- AI and product engineering
+- UX and customer research
+- Fintech compliance and security
+- Growth, partnership strategy, and acquisition
 
 ---
 
 ## Slide 12 — The Ask
 
-We are seeking support to build the MVP and validate demand.
+We are seeking support to build the MVP and validate demand in the market.
 
 Use of funds:
 
 - Product development and AI infrastructure
 - UX research and user testing
-- Marketing and early customer acquisition
-- Strategic partnerships and compliance setup
+- Early customer acquisition and onboarding
+- Compliance, security, and strategic partnerships
 
-Ask:
-
-- Seed-stage support from investors, advisors, and strategic partners
-- Feedback from users in the target market
-- Access to early customer channels and pilot opportunities
+We are looking for early-stage support from investors, advisors, and strategic partners who believe in making personal finance more understandable and empowering.
 
 Conclusion:
 
-Monexia helps people move from financial stress to financial confidence through personalized AI guidance. We are building a practical, scalable solution for a large and underserved market.
+Monexia helps people move from financial stress to financial confidence by giving them clear, personalized guidance that supports everyday decisions and long-term wealth-building.
 
 ---
 
-## Closing Note
+## Final Submission Statement
 
-This draft is intentionally focused on content and logic before visual polish. It follows the PLP pitch deck structure and creates a clear first-pass story for Monexia.
-
-Next steps:
-
-- Tighten the market numbers with real research
-- Add investor-grade traction and KPI metrics
-- Refine the value proposition and visual storytelling
-- Prepare a final deck with stronger slide design, charts, and proof points
+Monexia is an AI-powered personal finance coach built for young professionals who want better financial clarity without the complexity of traditional budgeting tools. The platform helps users understand their financial habits, identify priorities, and take actionable steps toward savings, debt reduction, and long-term wealth. By combining AI guidance with practical behavioral coaching, Monexia turns financial stress into a clear path forward. Our business model is built around a recurring subscription model supported by premium AI features and strategic partnerships, creating a scalable and sustainable opportunity in the growing personal finance market.
